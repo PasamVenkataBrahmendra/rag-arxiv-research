@@ -1,0 +1,6 @@
+{
+  "retriever": "BM25",
+  "total_questions": 20,
+  "hits": 20,
+  "accuracy": 100.0
+}
