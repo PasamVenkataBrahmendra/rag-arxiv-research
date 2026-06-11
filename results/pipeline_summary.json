@@ -1,0 +1,7 @@
+{
+  "total_questions": 20,
+  "grounded_answers": 15,
+  "grounding_rate": 75.0,
+  "retriever": "Hybrid (BM25 + FAISS)",
+  "llm": "LLaMA 3.3 70B via Groq"
+}

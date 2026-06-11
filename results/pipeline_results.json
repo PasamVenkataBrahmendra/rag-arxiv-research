@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What type of system is being analyzed in the paper for the mean resolvent using a polymer expansion?",
+    "answer": "A weakly disordered system.",
+    "context_used": "in this paper we develop a polymer expansion with large / small field conditions for the mean resolvent of a weakly disordered system . then we show that we can apply our result to a two - dimensional",
+    "grounded": false,
+    "word_overlap": 3
+  },
+  {
+    "question": "What is the significance of the asymptotic expansion for the density of states in the context of the research paper?",
+    "answer": "I cannot find this in the provided context.",
+    "context_used": "in this paper we develop a polymer expansion with large / small field conditions for the mean resolvent of a weakly disordered system . then we show that we can apply our result to a two - dimensional",
+    "grounded": false,
+    "word_overlap": 4
+  },
+  {
+    "question": "What is the asymptotic long-time equivalence being referred to in the context of the paper?",
+    "answer": "The asymptotic long-time equivalence of a generic power law waiting time distribution to the Mittag-Leffler waiting time distribution, characteristic for a time fractional continuous time random walk.",
+    "context_used": "we show the asymptotic long - time equivalence of a generic power law waiting time distribution to the mittag - leffler waiting time distribution , characteristic for a time fractional continuous time",
+    "grounded": true,
+    "word_overlap": 17
+  },
+  {
+    "question": "How does rescaling and respeeding of a renewal process lead to the space-time fractional diffusion equation?",
+    "answer": "Rescaling \"space\" can be interpreted as a second kind of respeeding, which then, under a proper relation between the relevant parameters, leads in the limit to the space-time fractional diffusion equation.",
+    "context_used": "we show the asymptotic long - time equivalence of a generic power law waiting time distribution to the mittag - leffler waiting time distribution , characteristic for a time fractional continuous time",
+    "grounded": true,
+    "word_overlap": 22
+  },
+  {
+    "question": "What types of functions can the hybrid method be applied to for asymptotic coefficient extraction?",
+    "answer": "The hybrid method can be applied to functions that remain of moderate growth near the unit circle and satisfy suitable smoothness assumptions, including functions that have the unit circle as a natural boundary, and specifically to coefficients of several types of infinite product generating functions.",
+    "context_used": "a `` hybrid method '' , dedicated to asymptotic coefficient extraction in combinatorial generating functions , is presented , which combines darboux s method and singularity analysis theory . this hyb",
+    "grounded": true,
+    "word_overlap": 30
+  },
+  {
+    "question": "What are some examples of infinite product generating functions to which the hybrid method can be applied?",
+    "answer": "Examples relative to permutations, trees, and polynomials over finite fields.",
+    "context_used": "a `` hybrid method '' , dedicated to asymptotic coefficient extraction in combinatorial generating functions , is presented , which combines darboux s method and singularity analysis theory . this hyb",
+    "grounded": false,
+    "word_overlap": 7
+  },
+  {
+    "question": "What is the importance of optical spectroscopy in determining physical parameters of giant radio galaxies?",
+    "answer": "Optical spectroscopy plays a crucial role in the determination of basic physical parameters of giant radio galaxies, such as distance, projected linear size, volume of their lobes or cocoon, luminosity, etc.",
+    "context_used": "an extensive search for distant giant radio galaxies on the southern hemisphere is justified . we emphasize the crucial role of optical spectroscopy in determination of their basic physical parameters",
+    "grounded": true,
+    "word_overlap": 21
+  },
+  {
+    "question": "Why is the SALT instrument considered the best for this task?",
+    "answer": "I cannot find this in the provided context.",
+    "context_used": "an extensive search for distant giant radio galaxies on the southern hemisphere is justified . we emphasize the crucial role of optical spectroscopy in determination of their basic physical parameters",
+    "grounded": false,
+    "word_overlap": 4
+  },
+  {
+    "question": "What is the role of minimal polynomials in computations involving zero-dimensional ideals in polynomial rings?",
+    "answer": "The role of minimal polynomials in computations involving zero-dimensional ideals in polynomial rings is that they are a key part of many computations, and searching for a univariate polynomial in a zero-dimensional ideal is a particular case of considering the minimal polynomial of an element.",
+    "context_used": "given a zero - dimensional ideal @xmath0 in a polynomial ring , many computations start by finding univariate polynomials in @xmath0 . searching for a univariate polynomial in @xmath0 is a particular ",
+    "grounded": true,
+    "word_overlap": 24
+  },
+  {
+    "question": "How can minimal polynomials be computed via elimination in the context of the given problem?",
+    "answer": "I cannot find this in the provided context.",
+    "context_used": "given a zero - dimensional ideal @xmath0 in a polynomial ring , many computations start by finding univariate polynomials in @xmath0 . searching for a univariate polynomial in @xmath0 is a particular ",
+    "grounded": false,
+    "word_overlap": 3
+  },
+  {
+    "question": "How does the strength of gravity affect the motion of particles in lineal gravity?",
+    "answer": "The strength of gravity (mass) affects the motion of particles, showing characteristic features depending on its magnitude, as well as the magnitude and sign of the cosmological constant. Specifically, for a certain range of the negative cosmological constant, the motion shows a double maximum behavior as a combined result of an induced momentum-dependent cosmological potential and the gravitational attraction between the particles.",
+    "context_used": "we develop the canonical formalism for a system of @xmath0 bodies in lineal gravity and obtain exact solutions to the equations of motion for @xmath1 . the determining equation of the hamiltonian is d",
+    "grounded": true,
+    "word_overlap": 32
+  },
+  {
+    "question": "What is the effect of a positive versus negative cosmological constant on the motion of particles in this system?",
+    "answer": "A positive cosmological constant has a repulsive effect on the motion, while a negative one has an attractive effect. Additionally, for a certain range of the negative cosmological constant, the motion shows a double maximum behavior, and for a positive cosmological constant, both bounded and unbounded motions are realized.",
+    "context_used": "we develop the canonical formalism for a system of @xmath0 bodies in lineal gravity and obtain exact solutions to the equations of motion for @xmath1 . the determining equation of the hamiltonian is d",
+    "grounded": true,
+    "word_overlap": 27
+  },
+  {
+    "question": "What is the effect of heptagonal carbon rings on the electronic structure of junctions between graphene and carbon nanotubes?",
+    "answer": "The heptagonal carbon rings induce an effective gauge flux, which has a direct reflection in the local density of states around the junction and gives rise to two quasi-bound states at the Fermi level in certain types of junctions.",
+    "context_used": "we study the electronic structure of the junctions between a single graphene layer and carbon nanotubes , using a tight - binding model and the continuum theory based on dirac fermion fields . the lat",
+    "grounded": true,
+    "word_overlap": 26
+  },
+  {
+    "question": "How do the electronic properties of armchair and zig-zag nanotubes differ at the junctions with graphene, according to the research findings?",
+    "answer": "The electronic properties of armchair and zig-zag nanotubes differ at the junctions with graphene in terms of low-energy electronic behavior. The junctions fall into two different classes: one characterized by the presence of two quasi-bound states at the Fermi level (for armchair nanotubes and zig-zag nanotubes with certain geometries), and the other without these states. Additionally, the arrays of junctions can be classified into two groups according to their low-energy behavior, with armchair and certain zig-zag nanotubes exhibiting flat bands whose number grows with the length of the nanotubes.",
+    "context_used": "we study the electronic structure of the junctions between a single graphene layer and carbon nanotubes , using a tight - binding model and the continuum theory based on dirac fermion fields . the lat",
+    "grounded": true,
+    "word_overlap": 37
+  },
+  {
+    "question": "What is the relationship between drift velocity and precession frequency in the context of spin drift and diffusion in a GaAs-hosted two-dimensional electron gas?",
+    "answer": "The precession frequency depends linearly on the drift velocity and is explained by the cubic Dresselhaus spin-orbit interaction. The relationship is given by a dependence on the cubic SOI coefficient and the drift velocity.",
+    "context_used": "space- and time - resolved measurements of spin drift and diffusion are performed on a gaas - hosted two - dimensional electron gas . for spins where forward drift is compensated by backward diffusion",
+    "grounded": true,
+    "word_overlap": 19
+  },
+  {
+    "question": "How does the cubic Dresselhaus spin-orbit interaction affect the spin precession of quasi-stationary electrons in the absence of an external magnetic field?",
+    "answer": "The cubic Dresselhaus spin-orbit interaction leads to a precession angle twice that of spins that diffuse the same distance for drift motion, resulting in a temporal spin-precession frequency that is directly proportional to the drift velocity and the strength of the cubic spin-orbit interaction.",
+    "context_used": "space- and time - resolved measurements of spin drift and diffusion are performed on a gaas - hosted two - dimensional electron gas . for spins where forward drift is compensated by backward diffusion",
+    "grounded": true,
+    "word_overlap": 27
+  },
+  {
+    "question": "What is the main issue addressed in the paper regarding Nash stability in hedonic coalition formation games?",
+    "answer": "The main issue addressed in the paper is: for a general problem formulation, is there any utility allocation method ensuring a Nash-stable partition?",
+    "context_used": "this paper studies _ the nash stability _ in hedonic coalition formation games . we address the following issue : for a general problem formulation , is there any utility allocation method ensuring a ",
+    "grounded": true,
+    "word_overlap": 15
+  },
+  {
+    "question": "How does the proposed decentralized algorithm, called Nash Stability Establisher, ensure finding the Nash stability in a game?",
+    "answer": "The proposed decentralized algorithm, called Nash Stability Establisher, ensures finding the Nash stability in a game by having each player determine its strategy in its turn according to a random round-robin scheduler, and it converges to an equilibrium if it exists, which is the indicator of the Nash stability.",
+    "context_used": "this paper studies _ the nash stability _ in hedonic coalition formation games . we address the following issue : for a general problem formulation , is there any utility allocation method ensuring a ",
+    "grounded": true,
+    "word_overlap": 30
+  },
+  {
+    "question": "What is the framework used to study the weak production of lambdas in nucleon - nucleon scattering?",
+    "answer": "The framework used to study the weak production of lambdas in nucleon - nucleon scattering is a meson-exchange framework.",
+    "context_used": "the weak production of lambdas in nucleon - nucleon scattering is studied in a meson - exchange framework . the weak transition operator for the @xmath0 reaction is identical to a previously developed",
+    "grounded": true,
+    "word_overlap": 14
+  },
+  {
+    "question": "What observables are found to be sensitive to the opening of the production channel in the reaction pn to p?",
+    "answer": "The total and differential cross sections, as well as the parity-violating asymmetry, are found to be sensitive to the opening of the production channel.",
+    "context_used": "the weak production of lambdas in nucleon - nucleon scattering is studied in a meson - exchange framework . the weak transition operator for the @xmath0 reaction is identical to a previously developed",
+    "grounded": true,
+    "word_overlap": 15
+  }
+]
