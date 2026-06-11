@@ -1,0 +1,8 @@
+{
+  "retriever": "Hybrid (BM25 + FAISS)",
+  "total_questions": 20,
+  "hits": 20,
+  "accuracy": 100.0,
+  "bm25_weight": 0.4,
+  "dense_weight": 0.6
+}
